@@ -1,0 +1,17 @@
+body {
+    background-color: ivory;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: saddlebrown;
+    margin-left: 20px;
+}
+p {
+    font-family:  Calibri;
+    font-size: 1.5em;
+    color: darkolivegreen;
+    margin-left: 50px;
+}
